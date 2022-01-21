@@ -1,4 +1,7 @@
 node_modules
-gulp*
-package*
+
+gulpfile.js
+gulp
 installation.txt
+package.json
+package-lock.json
