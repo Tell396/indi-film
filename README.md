@@ -5,4 +5,8 @@
 - HTML
 - CSS
 - Sass/Scss
-- JavaScript
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+
+## ToDo:
+- Fix the header image on resize screen
+- Change header image from video
